@@ -38,3 +38,4 @@ Read - http://blog.jetbrains.com/idea/2014/09/touring-plugins-issue-1/
 ###Architcture Analysis:
 * SonarGraph Architecture and Metrics Checker - https://www.hello2morrow.com/products/sonargraph
 * Code Iris (Visualises Structure) - http://www.codeiris.com/what-is-it/
+* JArchitect - http://jarchitect.com/
