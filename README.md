@@ -2,12 +2,12 @@
 
 ##Step 1. Find a refactoring kata
 
-Reasonable - https://github.com/adi-bolb/trivia/tree/master/java
-Pretty Good - https://github.com/emilybache/Racing-Car-Katas
+* Reasonable - https://github.com/adi-bolb/trivia/tree/master/java
+* Pretty Good - https://github.com/emilybache/Racing-Car-Katas
  
 ##Step 2. Refactoring and Cleaning
 
-* Clean up based on best practices from Clean Code (safe refactorings guided by a tool)
+* Clean up based on best practices from Clean Code (safe refactorings guided by a tool).  
 * Try and write a test around it and use code coverage (run mvn cobertura:cobertura)
 * Run Intellij > Analyse to tell you what's wrong with it - https://www.jetbrains.com/idea/help/code-analysis.html
 * Run PMD - mvn pmd:pmd and look in target/site/pmd.html
